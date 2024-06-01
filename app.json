@@ -1,0 +1,22 @@
+{
+    "name": "wallyjaytech-md",
+    "description": "I am wallyjaytech-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/wallyjaytechy",
+    "logo": "https://telegra.ph/file/644e57bacdc8fc5a8f8ef.jpg",
+    "repository": "https://github.com/wallyjaytechy/web-qr",
+    "keywords": ["whatsappbot", "wallyjaytechMd", "wallyjaytech Md bot", "Wallyjaytech-Md", "WallyjaytechMdWhatsaooBot", "WallyjaytechWaBot","WallyjaytechMD","Wallyjaytech Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": false 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "╔════◇\n║ *『 WAOW YOU CHOOSE WALLYJAYTECH-MD 』*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』\n║ *Ytube:* _youtube.com/wallyjaytechy_\n║ *Owner:* _https://wa.me/2348144317152\n║ *Note :*_Don't provide your SESSION_ID to_\n║ _anyone otherwise they can access chats_\n╚════════════════════════╝",
+        "required": false 
+      }
+    }   
+
+}
