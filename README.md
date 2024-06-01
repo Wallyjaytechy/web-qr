@@ -18,7 +18,7 @@
 
 ## Deployment Methods
 ---
-1.  ***Click [`FORK`](https://github.com/SuhailTechInfo/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
+1.  ***Click [`FORK`](https://github.com/wallyjaytechy/web-qr/fork) and `Star ⭐ Repository` if you get help from repo.***
 2.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/web-qr).***
 3.  ***Deploy on [`REPLIT`](https://replit.com/github/SuhailTechInfo/web-qr).***
 4. ***Deploy on [`RENDER`](https://dashboard.render.com/login).***
@@ -46,7 +46,7 @@ RENDER PROCESS:
 
 - WASocket Options
 ```js
-    let Smd =SuhailWASocket({ 
+    let Smd =WallyjaytechWASocket({ 
         printQRInTerminal: false,   // make it false if you're using web
         logger: pino({ level: "silent" }),     // make it silent to prevent baileys buffering
         browser: Browsers.baileys("Desktop"),  // awailable browsers : ubuntu, macOS, baileys.
@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️
-[![SuhailTechIinfo](https://github.com/SuhailTechInfo.png?size=300)](https://github.com/SuhailTechInfo)
+[![wallyjaytechy](https://github.com/wallyjaytechy.png?size=300)](https://github.com/wallyjaytechy)
