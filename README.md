@@ -3,13 +3,13 @@
   <html>
    <body>
   <p align="center">  
-  <a aria-label="FORK" href="https://github.com/SuhailTechInfo/Secktor-bot/fork" target="_blank">
-    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/SuhailTechInfo/web-qr?style=social" target="_blank" />
+  <a aria-label="FORK" href="https://github.com/wallyjaytechy/wallyjaytech-md/fork" target="_blank">
+    <img alt="License: GPL-3" src="https://img.shields.io/github/stars/wallyjaytechy/web-qr?style=social" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+  <a aria-label="Wallyjaytech_Md is free to use" href="https://youtube.com/@wallyjaytechy" target="_blank">
+    <img alt="wallyjaytechy" src="https://img.shields.io/youtube/channel/subscribers/UCXGqfhaa_pZYaLlIwbQb8KQ" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="SuhailTechInfo :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="wallyjaytechy :: Visitor's Count" /></p>
 
      
   </body>
